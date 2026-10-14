@@ -7,3 +7,5 @@ I’m Om Sharma, a third-semester B.Tech student. This repository is my engineer
 - **What I learned:** GitLens' blame view makes it easy to see exactly who 
   wrote which line and when, which is great for verifying real collaboration 
   on a shared file.
+  ## Projects
+   Hello World in C, built with a classmate using Live Share. Next: a Student Management System in C.
